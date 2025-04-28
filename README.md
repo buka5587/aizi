@@ -1,6 +1,6 @@
 # Misskey 机器人
 
-![机器人图片](img/zi.webp)
+![机器人图片](img/zi.webp =200x)
 
 ## 项目简介
 
