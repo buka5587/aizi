@@ -3,7 +3,7 @@ import random
 import time
 
 class AIClient:
-    def __init__(self, api_key: str, base_url: str = "https://yunwu.ai/v1", timeout: int = 120):
+    def __init__(self, api_key: str, base_url: str = "你的ai接口地址", timeout: int = 120):
         """
         初始化AI客户端
         :param api_key: API密钥
@@ -20,7 +20,7 @@ class AIClient:
         """
         创建聊天完成
         :param messages: 消息列表，格式参考OpenAI文档
-        :param model: 使用的模型，默认为gpt-3.5-turbo
+        :param model: 使用的模型，默认为deepseek-chat
         :return: 助手回复内容
         """
         response = self.client.chat.completions.create(

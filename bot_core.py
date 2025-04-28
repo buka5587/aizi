@@ -6,7 +6,7 @@ class BotCore:
     def __init__(self):
         self.logger = self._setup_logger()
         self.misskey_client = MisskeyClient()
-        self.ai_client = AIClient(api_key="sk-FYHxBfhqQ84I5FpC6HK8roax59crZVcOeZTcRPTd7mHfBWmZ")
+        self.ai_client = AIClient(api_key="你的ai-apikey")
     
     def _setup_logger(self):
         """初始化日志记录器"""
