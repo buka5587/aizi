@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Misskey 机器人
 
-![机器人图片](https://cn-sy1.rains3.com/tdws/files/16230795-d8f3-4103-87f1-6eab221a4f46.webp)
+![机器人图片](img/zi.webp)
 
 ## 项目简介
 
@@ -29,5 +28,5 @@
 
 1. 配置config.py中的站点URL和账户令牌
 2. 运行main.py启动机器人
-=======
+
 
