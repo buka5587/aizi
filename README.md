@@ -1,6 +1,6 @@
 # Misskey 机器人
 
-<img src="img/zi.webp" width="300" height="300" alt="机器人图片">
+<img src="img/zi.webp" alt="机器人图片">
 
 ## 项目简介
 
