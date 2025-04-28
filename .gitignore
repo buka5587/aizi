@@ -1,0 +1,17 @@
+# 忽略 .trae 文件夹及其内容
+.trae/
+
+# 忽略 __pycache__ 文件夹及其内容
+__pycache__/
+
+# 忽略 api.json 文件
+api.json
+
+# 忽略所有 .log 后缀的文件
+*.log
+
+# 忽略 wend.txt 文件
+wend.txt
+
+# 忽略 已经实现.txt 文件
+已经实现.txt
